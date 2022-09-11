@@ -1,0 +1,7 @@
+{
+    "Name": "JustRightClickAIO",	
+    "File": "main.lua",
+    "Version": 1.0,
+    "Type": "Champion AIO",
+    "Champions": ["Caitlyn", "Corki", "Draven", "Jinx", "Cassiopeia"]
+  }
